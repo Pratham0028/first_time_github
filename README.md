@@ -1,1 +1,2 @@
 # first_time_github
+TODAY I WILL TELL YOU HOW TO CREATE A CALCULATOR ON C/C++
